@@ -2,13 +2,7 @@ body {
   background-color: rgb(37, 50, 77);
 }
 
-h1 {
-  color: white;
-  text-align: center;
-  font-family: "Terminus (TTF) Bold 700"
-}
+color: white;
+text-align: center;
+font-family: "Terminus (TTF) Bold 700" sans-serif;
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}

@@ -1,8 +1,22 @@
-body {
-  background-color: rgb(37, 50, 77);
+
+@font-face {
+  font-family: 'Terminus';
+  src: url('fonts/terminus.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
-color: white;
-text-align: center;
-font-family: "Terminus (TTF) Bold 700", sans-serif;
+body {
+	
+background-color: rgb(37, 50, 77);
 
+color: white;
+font-family: 'Terminus', ariel;
+
+h1 {
+	text-align: center;
+}
+p {
+	font-size: 20px
+}
+}

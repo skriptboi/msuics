@@ -7,11 +7,10 @@
 }
 
 body {
-	
-background-color: rgb(37, 50, 77);
-
-color: white;
-font-family: 'Terminus', ariel;
+	background-color: rgb(37, 50, 77);
+	padding: 50px;
+	color: white;
+	font-family: 'Terminus', ariel;
 
 h1 {
 	text-align: center;

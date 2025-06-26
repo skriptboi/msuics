@@ -1,5 +1,7 @@
 {
 	"name": "worker-name",
 	"compatibility_date": "2025-06-26",
-	"main": "src/index.tl"
+	"assets": {
+		"directory": "./public"
+	}
 }

@@ -1,7 +1,5 @@
 {
 	"name": "worker-name",
 	"compatibility_date": "2025-06-26",
-	"assets": {
-		"branch": "./main"
-	}
+
 }

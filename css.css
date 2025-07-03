@@ -22,3 +22,6 @@ p {
 .coolstuff {
 	padding-left: 25px;
 }
+
+
+border-image: url("/images/border.png") 30;
